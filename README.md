@@ -1,4 +1,5 @@
 ### Hi there 👋, My name is Joseph!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlthompson96)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jlthompson96/jlthompson96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Josephs's github stats](https://github-readme-stats.vercel.app/api?username=jlthompson96)](https://github.com/jlthompson96)
