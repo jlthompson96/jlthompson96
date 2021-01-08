@@ -1,10 +1,20 @@
 ### Hi there 👋, My name is Joseph!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlthompson96)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**jlthompson96/jlthompson96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Josephs's github stats](https://github-readme-stats.vercel.app/api?username=jlthompson96)](https://github.com/jlthompson96)
-Here are some ideas to get you started:
 
+## Languages
+<img align="left" alt="Java" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/java.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/html.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/css.svg" />
+<img align="left" alt="JavaScipt" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/javascript.svg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/python.svg" />
+<img align="left" alt="Database(MySQL)" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/database.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/cpp.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/git.svg" />
+
+
+
+
+<!--
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
