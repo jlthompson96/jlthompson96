@@ -6,7 +6,7 @@ Hello, my name is Joseph Thompson, and I am currently a student pursuing a degre
 - 🌱 I’m currently learning ... Full Stack Development
 - 📫 How to reach me: ... <a href="https://jlthompson96.github.io/Resume_Website/" class="btn btn-light btn-round">Visit My Website</a>
 
-## Languages
+## Languages and Tools <!-- Icons by: https://github.com/PKief/vscode-material-icon-theme -->
 <img align="left" alt="Java" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/java.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/css.svg" />
@@ -14,11 +14,6 @@ Hello, my name is Joseph Thompson, and I am currently a student pursuing a degre
 <img align="left" alt="Python" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/python.svg" />
 <img align="left" alt="Database(MySQL)" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/database.svg" />
 <img align="left" alt="C++" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/cpp.svg" />
+<img align="left" alt="Console" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/console.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/git.svg" />
-
-
-
-
-<!--
-
--->
+<img align="left" alt="VSCode" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/vscode.svg" />
