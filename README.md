@@ -4,7 +4,7 @@ Hello, my name is Joseph Thompson, and I am currently a student pursuing a degre
 
 - 🔭 I’m currently working on ... Graduating
 - 🌱 I’m currently learning ... Full Stack Development, C#, Object-Oriented Systems and Logic / Algorithms
-- 📫 How to reach me: ... <a href="https://jlthompson96.github.io/Resume_Website/" class="btn btn-light btn-round">Visit My Website</a>
+- 📫 How to reach me: ... <a href="https://jlthompson96.github.io/Resume_Website/" class="btn btn-light btn-round">Visit My Website</a> or [Email Me](mailto:joeythompson1014@gmail.com)
 
 ## Languages and Tools <!-- Icons by: https://github.com/PKief/vscode-material-icon-theme -->
 <img align="left" alt="Java" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/java.svg" />
