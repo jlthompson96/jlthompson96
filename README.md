@@ -13,6 +13,7 @@ Hello, my name is Joseph Thompson, and I am currently a student pursuing a degre
 <img align="left" alt="JavaScipt" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/javascript.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/python.svg" />
 <img align="left" alt="Database(MySQL)" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/database.svg" />
+<img align="left" alt="CSharp" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/csharp.svg" />
 <img align="left" alt="C++" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/cpp.svg" />
 <img align="left" alt="Console" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/console.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/git.svg" />
