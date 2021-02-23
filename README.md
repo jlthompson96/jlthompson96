@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Joseph!
+### Hi there 👋, My name is Joseph(Joey)!
 
 Hello, my name is Joseph Thompson, and I am currently a student pursuing a degree in Computer Science. I have been working with technology just about my entire life. Whether it is smartphones, home computers, or servers, I have experience with building, repairing as well as troubleshooting with these systems. I also have experience working with software and or OSs that run on different types of systems. From MacOS to Windows to Linux, I have used and had experience with each of these different environments.
 
