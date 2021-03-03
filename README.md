@@ -17,3 +17,4 @@ Hello, my name is Joseph Thompson, and I am currently a student pursuing a degre
 <img align="left" alt="Console" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/console.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/git.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/vscode.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/visualstudio.svg" />
