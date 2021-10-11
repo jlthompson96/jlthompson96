@@ -2,7 +2,7 @@
 
 Hello, my name is Joseph Thompson, and I am recent graduate from the University of North Carolina at Charlotte with my Bachelors in Computer Science. I am currently seeking a full time position. I have been working with technology just about my entire life. Whether it is smartphones, home computers, or servers, I have experience with building, repairing as well as troubleshooting with these systems. I also have experience working with software and or OSs that run on different types of systems. From MacOS to Windows to Linux, I have used and had experience with each of these different environments.
 
-- 🔭 I’m currently working on ... Finding a full time position
+- 🔭 I’m currently working on ... Expanding my skills
 - 🌱 I’m currently learning ... Full Stack Development
 - 📫 How to reach me: ... <a href="https://jlthompson96.github.io/Resume_Website/" class="btn btn-light btn-round">Visit My Website</a> or [Email Me](mailto:joeythompson1014@gmail.com)
 
