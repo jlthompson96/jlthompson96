@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Joseph(Joey)!
 
-Hello, my name is Joseph Thompson, and I am recent graduate from the University of North Carolina at Charlotte with my Bachelors in Computer Science. I am currently seeking a full time position. I have been working with technology just about my entire life. Whether it is smartphones, home computers, or servers, I have experience with building, repairing as well as troubleshooting with these systems. I also have experience working with software and or OSs that run on different types of systems. From MacOS to Windows to Linux, I have used and had experience with each of these different environments.
+Hello, my name is Joseph Thompson, and I am a recent graduate from the University of North Carolina at Charlotte with my Bachelors in Computer Science. I have been working with technology for just about my entire life. Whether it is smartphones, home computers, or servers, I have experience with building, repairing as well as troubleshooting with these systems. I also have experience working with software and or OSs that run on different types of systems. From MacOS to Windows to Linux, I have used and had experience with each of these different environments.
 
 - 🔭 I’m currently working on ... Expanding my skills
 - 🌱 I’m currently learning ... Full Stack Development
