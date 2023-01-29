@@ -3,7 +3,7 @@
 Hello, my name is Joseph Thompson, and I am a recent graduate from the University of North Carolina at Charlotte with my Bachelors in Computer Science. I have been working with technology for just about my entire life. Whether it is smartphones, home computers, or servers, I have experience with building, repairing as well as troubleshooting with these systems. I also have experience working with software and or OSs that run on different types of systems. From MacOS to Windows to Linux, I have used and had experience with each of these different environments.
 
 - 🔭 I’m currently working on ... Expanding my skills
-- 🌱 I’m currently learning ... Full Stack Development (Spring Boot, React, JavaScript, Bootstrap 5), Gradle
+- 🌱 I’m currently learning ... Full Stack Development (Spring Boot, React, Typescript, JavaScript, Bootstrap 5), Gradle
 - 📫 How to reach me: ... <a href="https://jlthompson96.github.io/Resume_Website/" class="btn btn-light btn-round">Visit My Website</a> or [Email Me](mailto:joeythompson1014@gmail.com)
 
 ## Languages and Tools <!-- Icons by: https://github.com/PKief/vscode-material-icon-theme -->
