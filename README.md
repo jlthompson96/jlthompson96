@@ -10,6 +10,7 @@ Hello, my name is Joseph Thompson, and I am a recent graduate from the Universit
 <img align="left" alt="Java" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/java.svg" />
 <img align="left" alt="CSharp" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/csharp.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/python.svg" />
+<img align="left" alt="Swift" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/swift.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/css.svg" />
 <img align="left" alt="JavaScipt" width="26px" src="https://github.com/jlthompson96/vscode-material-icon-theme/blob/master/icons/javascript.svg" />
