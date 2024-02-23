@@ -1,6 +1,14 @@
 ### Hi there 👋, My name is Joseph(Joey)!
 
-Hello, my name is Joseph Thompson, and I am a recent graduate from the University of North Carolina at Charlotte with my Bachelors in Computer Science. I have been working with technology for just about my entire life. Whether it is smartphones, home computers, or servers, I have experience with building, repairing as well as troubleshooting with these systems. I also have experience working with software and or OSs that run on different types of systems. From MacOS to Windows to Linux, I have used and had experience with each of these different environments.
+Passionate software engineer with a proven track record in modernizing applications and driving efficiencies. Currently serving as an Associate Vice President at Wells Fargo, where I lead initiatives in application modernization, leveraging technologies like React.js, Java 17, and Spring 6. Over the past year, I've spearheaded the transformation of a Java 8 SpringBoot application into a micro services architecture deployed on Pivotal Cloud Foundry.
+
+In addition to my technical contributions, I'm dedicated to mentorship, having supported interns, contractors, and new team members to foster a culture of learning and growth. My background also includes part-time roles in IT systems and service management, where I've honed my skills in infrastructure maintenance, network security, and client support.
+
+🎓 Bachelor of Arts in Computer Science | University of North Carolina at Charlotte
+
+- Certifications: Azure Fundamentals (Microsoft)
+
+Let's connect and discuss how we can collaborate on innovative projects!
 
 - 🔭 I’m currently working on ... Expanding my skills
 - 🌱 I’m currently learning ... Full Stack Development (Spring Boot, React, Typescript, Gradle)
